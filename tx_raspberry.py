@@ -89,7 +89,11 @@ class LoRaBeacon(LoRa):
 
         message_BYTE_ARRAY_UTF8 = bytearray(message,"utf_8")
         
-        self.write_payload(message_BYTE_ARRAY_UTF8)
+        message_BYTE_ARRAY_UTF8_LIST =[]
+        for st in message_BYTE_ARRAY_UTF8:
+            message_BYTE_ARRAY_UTF8_LIST.append(st)
+
+        self.write_payload(message_BYTE_ARRAY_UTF8_LIST)
         self.set_mode(MODE.TX)
         while True:
             sleep(1)
