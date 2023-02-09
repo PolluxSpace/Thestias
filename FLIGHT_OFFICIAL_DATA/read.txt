@@ -1,1 +1,3 @@
 Dados oficiais do voo do Thestias.
+
+Nota: O ficheiro de texto 'temperature2' é o que tem a temperatura interna correta.
