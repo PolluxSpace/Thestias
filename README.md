@@ -11,3 +11,5 @@ The team was divided into 5 control work packages, work groups that coordinate a
 The Pollux Association - Space Technologies is a junior initiative based at the Faculty of Sciences and Technologies of the University of Coimbra, with members from the Faculty of Humanities, Faculty of Psychology and Education Sciences, Faculty of Economics, Faculty of Law, and Faculty of Sciences and Technologies.
 
 The emergence of the junior initiative, which develops space projects of a scientific and technological nature, stems from the recognition of the lack of specific foundational learning to be accomplished by newly graduates entering the job market.
+
+![WhatsApp Image 2023-01-06 at 16 00 07](https://user-images.githubusercontent.com/103609396/218454384-5c0d39e1-a140-462a-92d5-0eb097796e0a.jpeg)
